@@ -26,11 +26,12 @@
     }
 }
 
-@media(min-height:631px){
+/*@media(min-height:631px){
     .container-menu{
         display:none;
     }
-}
+}*  //para não aparecer o container-menu */
+
 @media (max-width:1000px){
     .container{
         padding: 0px 20px;
